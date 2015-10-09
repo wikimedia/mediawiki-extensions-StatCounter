@@ -5,7 +5,7 @@
 		"Jack Phoenix"
 	],
 	"url": "https://www.mediawiki.org/wiki/Extension:StatCounter.com_Integration",
-	"description": "Inserts StatCounter.com script into MediaWiki pages for tracking",
+	"descriptionmsg": "statcounter-desc",
 	"type": "other",
 	"AutoloadClasses": {
 		"StatCounterHooks": "StatCounterHooks.class.php"
@@ -15,5 +15,10 @@
 			"StatCounterHooks::onSkinBuildSidebar"
 		]
 	},
-	"manifest_version": 1
+	"manifest_version": 1,
+	"MessagesDirs": {
+		"StatCounter": [
+			"i18n"
+		]
+	}
 }
