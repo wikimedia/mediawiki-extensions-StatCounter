@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mattho69"
+			"Mattho69",
+			"Gomoko"
 		]
 	},
-	"statcounter": "Statistiques du site"
+	"statcounter": "Statistiques du site",
+	"statcounter-desc": "Insère le script StatCounter.com dans les pages pour le suivi"
 }
