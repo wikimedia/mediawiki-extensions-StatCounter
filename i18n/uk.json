@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ата"
+			"Ата",
+			"Piramidion"
 		]
 	},
-	"statcounter": "Статистика сайту"
+	"statcounter": "Статистика сайту",
+	"statcounter-desc": "Вставляє скрипт StatCounter.com на сторінки для відстежування"
 }
