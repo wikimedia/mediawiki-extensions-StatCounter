@@ -4,5 +4,6 @@
 			"Red Winged Duck"
 		]
 	},
-	"statcounter": "Статыстыка сайту"
+	"statcounter": "Статыстыка сайту",
+	"statcounter-desc": "Устаўляе скрыпт StatCounter.com на старонкі для сачэньня"
 }
