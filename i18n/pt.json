@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
 		]
 	},
-	"statcounter": "Estatísticas do sítio"
+	"statcounter": "Estatísticas do site",
+	"statcounter-desc": "Insere nas páginas o script StatCounter.com para monitorização"
 }
