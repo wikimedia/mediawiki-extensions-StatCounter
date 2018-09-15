@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sujiniku"
+			"Sujiniku",
+			"2nd-player"
 		]
 	},
-	"statcounter": "サイトの統計"
+	"statcounter": "サイトの統計",
+	"statcounter-desc": "トラッキング用の Stat Counter.com のスクリプトをページに挿入する"
 }
