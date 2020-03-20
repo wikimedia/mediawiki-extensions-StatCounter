@@ -4,6 +4,11 @@
  */
 class StatCounterHooks {
 
+	/**
+	 * @param Skin $skin
+	 * @param array &$bar
+	 * @return true
+	 */
 	public static function onSkinBuildSidebar( $skin, &$bar ) {
 		$projectId = (int)$skin->msg( 'statcounter-project-id' )->plain();
 		$security = htmlspecialchars( $skin->msg( 'statcounter-security' )->plain(), ENT_QUOTES );
@@ -26,5 +31,4 @@ document.write("<sc"+"ript type='text/javascript' src='"+scJsHost +"statcounter.
 CODE;
 		return true;
 	}
-
 }

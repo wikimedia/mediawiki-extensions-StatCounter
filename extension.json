@@ -8,7 +8,7 @@
 	"descriptionmsg": "statcounter-desc",
 	"type": "other",
 	"AutoloadClasses": {
-		"StatCounterHooks": "StatCounterHooks.class.php"
+		"StatCounterHooks": "StatCounterHooks.php"
 	},
 	"Hooks": {
 		"SkinBuildSidebar": [
