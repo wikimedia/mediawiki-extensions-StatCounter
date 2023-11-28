@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand"
+			"Siebrand",
+			"Vistaus"
 		]
 	},
-	"statcounter": "Sitestatistieken"
+	"statcounter": "Sitestatistieken",
+	"statcounter-desc": "Voegt het StatCounter.com-script toe aan pagina's voor volgdoeleinden"
 }
