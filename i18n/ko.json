@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jerrykim306"
+			"Jerrykim306",
+			"Tensama0415"
 		]
 	},
-	"statcounter": "사이트 통계"
+	"statcounter": "사이트 통계",
+	"statcounter-desc": "추적을 위해 StatCounter.com 스크립트를 문서에 삽입합니다."
 }
